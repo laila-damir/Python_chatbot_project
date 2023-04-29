@@ -2,20 +2,12 @@
 """
 @author: laila damir
 """
-#installation section 
-
-#pip install gradio
-#pip install openai
-#pip install gtts
-#pip install ffmpeg
-#ffmpeg -f lavfi -i anullsrc=r=44100:cl=mono -t 10 -q:a 9 -acodec libmp3lame Temp.mp3
-
 #import section
 
 import gradio as gr 
 import openai
 from gtts import gTTS
-#https://platform.openai.com/account/api-keys
+
 with open("api_key.txt",'r') as f:
     openai.api_key=f.readline();
 messages = [
