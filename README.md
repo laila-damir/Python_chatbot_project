@@ -19,6 +19,7 @@
 ffmpeg -f lavfi -i anullsrc=r=44100:cl=mono -t 10 -q:a 9 -acodec libmp3lame Temp.mp3
 
 ## Get the api_key from https://platform.openai.com/account/api-keys
+### create a text file named api_key.txt and write in it the api key you got
 ## How it does look like
 <img width="344" alt="1" src="https://user-images.githubusercontent.com/132129226/235297602-faccade8-14ea-4a1e-b1de-ff32221dded5.png">
 <img width="357" alt="2" src="https://user-images.githubusercontent.com/132129226/235297613-ba3dff1e-41f1-408d-ad9a-cff9df8efb9b.png">
