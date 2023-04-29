@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Lun 20 15:58:41 2023
-
-@author: hp
+@author: laila damir
 """
 #installation section 
 
