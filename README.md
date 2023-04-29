@@ -9,10 +9,10 @@
 * Create a Gradio interface that allows users to interact with the chatbot.
 
 ## installation section
-pip install gradio
-pip install openai
-pip install gtts
-pip install ffmpeg
+* pip install gradio
+* pip install openai
+* pip install gtts
+* pip install ffmpeg
 
 ## How to create the temporary audio file
 ### run this command in the terminal 
