@@ -20,8 +20,7 @@ ffmpeg -f lavfi -i anullsrc=r=44100:cl=mono -t 10 -q:a 9 -acodec libmp3lame Temp
 
 ## Get the api_key from https://platform.openai.com/account/api-keys
 ## How it does look like
-<img width="402" alt="1" src="https://user-images.githubusercontent.com/132129226/235297476-4c076e85-462b-4eb2-8dc4-e1a3ad33d0e0.png">
-<img width="408" alt="2" src="https://user-images.githubusercontent.com/132129226/235297500-c6cb1e59-4fed-4d67-9613-4be9a2f6d70c.png">
-<img width="404" alt="3" src="https://user-images.githubusercontent.com/132129226/235297512-6cbd8bc0-573c-499c-a32f-2cc2a7d4bad4.png">
-
+<img width="344" alt="1" src="https://user-images.githubusercontent.com/132129226/235297602-faccade8-14ea-4a1e-b1de-ff32221dded5.png">
+<img width="357" alt="2" src="https://user-images.githubusercontent.com/132129226/235297613-ba3dff1e-41f1-408d-ad9a-cff9df8efb9b.png">
+<img width="360" alt="3" src="https://user-images.githubusercontent.com/132129226/235297620-a54e84ba-6b3d-4acc-89b3-2eb4a952cfbc.png">
 
